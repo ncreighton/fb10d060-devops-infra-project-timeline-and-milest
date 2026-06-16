@@ -1,2 +1,28 @@
-# fb10d060-devops-infra-project-timeline-and-milest
-Professional project timeline and milestone tracker built for devops infra operations and growth.
+# Devops Infra Project Timeline and Milestone Tracker
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard views | Yes | Yes |
+| Sample data | Yes | Yes |
+| Advanced automations | - | Yes |
+| Custom formulas | - | Yes |
+| Multiple databases | - | Yes |
+| Dashboard views | - | Yes |
+| Video tutorials | - | Yes |
+| Lifetime updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/6oU4gz3aLaQAe008nGcZG2i)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/6oU4gz3aLaQAe008nGcZG2i)
+
